@@ -128,18 +128,6 @@ Real-time webcam proctoring system using facial keypoint detection and anomaly s
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
----
-
-## GitHub Stats
-
-<div align="center">
-
-![Sampath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AI-Mercenary&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AI-Mercenary&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 ## Highlights
 
