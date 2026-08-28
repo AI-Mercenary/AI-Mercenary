@@ -15,7 +15,11 @@
 
 ## About
 
-I build AI systems that ship — RAG pipelines, multi-agent workflows, and full-stack platforms across healthcare, pharma, ed-tech, and enterprise search. I work from architecture to deployment and care about systems that are reliable, explainable, and actually useful in production.
+I am an AI Engineer who builds end-to-end systems — from multi-agent LLM pipelines and RAG architectures to full-stack web and mobile applications. My work spans healthcare, pharma, ed-tech, and enterprise search, always with a focus on systems that are production-ready, reliable, and actually solve real problems.
+
+On the AI side I work with LangChain, LangGraph, RAG pipelines, vector search, LLM fine-tuning, and agentic workflows. On the engineering side I am comfortable across the full stack — FastAPI backends, React and Next.js frontends, PostgreSQL and MongoDB databases, Docker, and cloud deployments on AWS and Vercel.
+
+I care about clean architecture, observable systems, and shipping things that work. When I build something, I take it from idea to deployed product — not just a notebook or a demo.
 
 ---
 
@@ -24,8 +28,8 @@ I build AI systems that ship — RAG pipelines, multi-agent workflows, and full-
 | Project | What It Does | Link |
 |---|---|---|
 | **Vaultiq** | Enterprise document search with a multi-agent AI pipeline | [Live](https://vaultiq-three-dusky.vercel.app) |
-| **STARFORGE** | 3D data visualization platform with real-time analytics | [Live](https://starforge-gaac.vercel.app/) |
-| **LifePathBot** | AI student success platform with LLM chat and document ingestion | [Live](https://lifepath-bot.vercel.app) |
+| **STARFORGE** | Immersive 3D space exploration platform with planet and celestial body information | [Live](https://starforge-wheat.vercel.app) |
+| **LifePathBot** | AI student success platform with LangGraph agents and document ingestion | [Live](https://lifepath-bot.vercel.app) |
 | **AdaFit** | AI fitness tracking platform with analytics dashboard | [Live](https://ada-fit.vercel.app) |
 | **Sanchari** | Cross-platform React Native travel app | Mobile |
 | **Yatra AI** | AI travel assistant with map visualization | In Development |
@@ -35,42 +39,42 @@ I build AI systems that ship — RAG pipelines, multi-agent workflows, and full-
 ## Featured Projects
 
 ### [Vaultiq — Enterprise Search](https://github.com/AI-Mercenary/Vaultiq)
-Multi-agent document search platform built with LangGraph. Three agents — Tag Generator, Search Agent, and Critique Agent — work in sequence to surface relevant results from large document sets. Hybrid BM25 and TF-IDF search with LLM re-ranking. Full observability via Langfuse.
+Multi-agent document search platform built with LangGraph. Three agents — Tag Generator, Search Agent, and Critique Agent — work in sequence to surface relevant results from large document sets. Implements hybrid BM25 and TF-IDF search combined via Reciprocal Rank Fusion, with Groq LLM re-ranking as the final gate. Full observability via Langfuse on every agent call.
 
 `Python` `FastAPI` `PostgreSQL` `LangChain` `LangGraph` `Groq` `Langfuse` `React` `Next.js` `TypeScript` `Tailwind`
 
 ---
 
-### [STARFORGE — 3D Data Platform](https://github.com/AI-Mercenary/STARFORGE)
-Data visualization platform with 3D rendering, real-time dashboards, and interactive analytics. Built with Next.js, Three.js, and React Three Fiber.
+### [STARFORGE — 3D Space Exploration](https://github.com/AI-Mercenary/STARFORGE)
+Immersive 3D web platform for exploring planets, celestial bodies, and space information. Built with Three.js and React Three Fiber for real-time 3D rendering, Next.js for the application layer, and Framer Motion for smooth transitions. Designed to make space data visual, interactive, and engaging.
 
-`Next.js` `TypeScript` `Three.js` `React Three Fiber` `Tailwind CSS` `Framer Motion`
+`Next.js` `TypeScript` `Three.js` `React Three Fiber` `Tailwind CSS` `Framer Motion` `Radix UI`
 
 ---
 
 ### [LifePathBot — AI Student Platform](https://github.com/AI-Mercenary/lifepath-bot-frontend)
-Student success platform with multi-file document ingestion, LLM-backed chat, goal tracking, and an analytics dashboard.
+Student success platform powered by a LangGraph agent pipeline for structured reasoning and response generation. Supports multi-file document ingestion across PDF, DOCX, and PPTX formats, with goal tracking, progress analytics, and an LLM-backed conversational interface.
 
-`React` `TypeScript` `FastAPI` `MongoDB` `BM25` `spaCy` `NLTK` `Firebase`
+`React` `TypeScript` `FastAPI` `LangGraph` `MongoDB` `BM25` `spaCy` `NLTK` `Firebase`
 
 ---
 
 ### [AI Fitness Coach](https://github.com/AI-Mercenary/My_Projects)
-Agentic fitness platform with a sequential LangGraph reasoning chain for personalized workout and nutrition planning.
+Agentic fitness platform with a sequential LangGraph reasoning chain. A goal-parsing agent takes user input and passes structured output to a plan-synthesis agent that generates personalized workout and nutrition plans. Full-stack delivery with React frontend and Node.js backend.
 
 `Python` `LangChain` `LangGraph` `React.js` `Node.js` `OpenAI API`
 
 ---
 
 ### [Sanchari — Travel App](https://github.com/AI-Mercenary/Sanchari)
-Cross-platform mobile app with Google Sign-In, Firebase Auth, Supabase, and text-to-speech. Supports Android, iOS, and Web.
+Cross-platform mobile travel application built with React Native and Expo. Features Google Sign-In, Firebase Authentication, Supabase database, text-to-speech, image picker, and deep linking. Runs on Android, iOS, and Web from a single codebase.
 
-`React Native` `Expo` `TypeScript` `Firebase` `Supabase`
+`React Native` `Expo` `TypeScript` `Firebase` `Supabase` `Google Auth`
 
 ---
 
 ### [Exam Integrity Monitor](https://github.com/AI-Mercenary/My_Projects)
-Real-time webcam proctoring system using facial keypoint tracking and anomaly scoring.
+Real-time webcam proctoring system using facial keypoint detection and anomaly scoring at 30 FPS. Detects suspicious behaviour during online exams and flags anomalies automatically, reducing the need for active human monitoring.
 
 `JavaScript` `WebRTC` `MediaPipe` `face-api.js` `Docker`
 
