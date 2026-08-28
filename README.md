@@ -28,7 +28,7 @@ I care about clean architecture, observable systems, and shipping things that wo
 | Project | What It Does | Link |
 |---|---|---|
 | **Vaultiq** | Enterprise document search with a multi-agent AI pipeline | [Live](https://vaultiq-three-dusky.vercel.app) |
-| **STARFORGE** | Immersive 3D space exploration platform with planet and celestial body information | [Live](https://starforge-wheat.vercel.app) |
+| **STARFORGE** | Immersive 3D space exploration platform with planet and celestial body information | [Live](https://starforge-gaac.vercel.app) |
 | **LifePathBot** | AI student success platform with LangGraph agents and document ingestion | [Live](https://lifepath-bot.vercel.app) |
 | **AdaFit** | AI fitness tracking platform with analytics dashboard | [Live](https://ada-fit.vercel.app) |
 | **Sanchari** | Cross-platform React Native travel app | Mobile |
@@ -120,9 +120,12 @@ Real-time webcam proctoring system using facial keypoint detection and anomaly s
 
 **Languages**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
 ---
@@ -149,5 +152,4 @@ Real-time webcam proctoring system using facial keypoint detection and anomaly s
 ---
 
 <div align="center">
-<sub>Open to AI Engineer roles in Bangalore · sdatla394@gmail.com</sub>
 </div>
