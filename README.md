@@ -17,13 +17,13 @@
 
 ## About
 
-AI Engineer with end-to-end ownership of LLM systems, RAG pipelines, and agentic AI in production. Promoted from intern to full-time after shipping production AI for pharma clients on AWS. Built and deployed 6 live platforms across healthcare, ed-tech, and enterprise search — cutting retrieval time by 70%, scaling to 500+ concurrent users, and achieving 25% LLM accuracy gains over baseline.
+AI Engineer with hands-on experience building and shipping LLM systems, RAG pipelines, and agentic AI in production. Built and deployed 6 live platforms across healthcare, ed-tech, pharma, and enterprise search — cutting retrieval time by 70%, scaling to 500+ concurrent users, and achieving 25% LLM accuracy gains over baseline.
 
 I work from architecture to deployment: LangChain/LangGraph multi-agent pipelines, hybrid BM25 + TF-IDF search, AWS inference pipelines, NLP systems, and full-stack React/FastAPI platforms.
 
 ---
 
-## What I Have Built
+## Live Projects
 
 | Project | What It Does | Live |
 |---|---|---|
@@ -143,29 +143,13 @@ Real-time 30 FPS webcam proctoring system using facial keypoint tracking and ano
 ## Highlights
 
 - 🥇 **1st Place** — Internal Smart India Hackathon 2025, GITAM University (400+ teams)
-- 🎓 **Selected** — IIT Delhi Computer Graphics & Computer Vision Summer School (2,500+ applicants)
+- 🎓 **Selected** — IIT Delhi Computer Graphics & Computer Vision Summer School (1,500+ applicants)
 - 🏆 **Top 10** — IIT Kanpur Techkriti Technical Innovation Event
 - 🚀 **President** — GITAM Aero Astro Club (2025–26)
 - ⚡ **Operations Lead** — IEEE CS GITAM Chapter (2024–25)
 
 ---
 
-## Experience
-
-**Junior AI Engineer** — DATAi2i Private Limited *(May 2026 – Present)*
-LLM inference pipelines for pharma clients on AWS · LLM fine-tuning · 25% accuracy gain · CI/CD
-
-**AI Engineer & Full-Stack Developer** — ZenithZap Beverages *(Aug – Oct 2025)*
-React/Node e-commerce platform · AI chatbot integration · 5,000+ monthly users
-
-**AI Engineer Intern** — DATAi2i Private Limited *(May – Jul 2025)*
-RAG pipeline · 70% retrieval improvement · 120+ documents · Gemini + MongoDB
-
-**Software Engineer Intern** — BMARG Innovative Solutions *(Jan – Apr 2025)*
-MERN clinic portal · Razorpay + Firebase · 500+ concurrent sessions
-
----
-
 <div align="center">
-<sub>Open to AI Engineer roles in Bangalore. · sdatla394@gmail.com</sub>
+<sub>Open to AI Engineer roles in Bangalore · sdatla394@gmail.com</sub>
 </div>
