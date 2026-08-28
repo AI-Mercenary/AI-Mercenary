@@ -4,8 +4,6 @@
 
 **AI Engineer · LLM Systems · Agentic AI · Full-Stack**
 
-*Building production AI that ships — RAG pipelines, agentic systems, and full-stack platforms that scale.*
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sampath-varma-datla)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AI-Mercenary)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sdatla394@gmail.com)
@@ -17,66 +15,62 @@
 
 ## About
 
-AI Engineer with hands-on experience building and shipping LLM systems, RAG pipelines, and agentic AI in production. Built and deployed 6 live platforms across healthcare, ed-tech, pharma, and enterprise search — cutting retrieval time by 70%, scaling to 500+ concurrent users, and achieving 25% LLM accuracy gains over baseline.
-
-I work from architecture to deployment: LangChain/LangGraph multi-agent pipelines, hybrid BM25 + TF-IDF search, AWS inference pipelines, NLP systems, and full-stack React/FastAPI platforms.
+I build AI systems that ship — RAG pipelines, multi-agent workflows, and full-stack platforms across healthcare, pharma, ed-tech, and enterprise search. I work from architecture to deployment and care about systems that are reliable, explainable, and actually useful in production.
 
 ---
 
 ## Live Projects
 
-| Project | What It Does | Live |
+| Project | What It Does | Link |
 |---|---|---|
-| **Vaultiq** | Enterprise search — 3-agent AI pipeline, hybrid search, Langfuse observability | [vaultiq-three-dusky.vercel.app](https://vaultiq-three-dusky.vercel.app) |
-| **STARFORGE** | 3D data visualization platform with Next.js, Three.js, and real-time analytics | [starforge-wheat.vercel.app](https://starforge-wheat.vercel.app) |
-| **LifePathBot** | AI student success platform — LLM chat, multi-file ingestion, goal tracking | [lifepath-bot.vercel.app](https://lifepath-bot.vercel.app) |
-| **Sanchari** | React Native travel app with Firebase, Supabase, and Google Auth | Mobile |
-| **AdaFit** | AI fitness tracking platform with analytics dashboard | [ada-fit.vercel.app](https://ada-fit.vercel.app) |
-| **Yatra AI** | AI travel assistant with map visualization and ML backend | In Development |
+| **Vaultiq** | Enterprise document search with a multi-agent AI pipeline | [Live](https://vaultiq-three-dusky.vercel.app) |
+| **STARFORGE** | 3D data visualization platform with real-time analytics | [Live](https://starforge-wheat.vercel.app) |
+| **LifePathBot** | AI student success platform with LLM chat and document ingestion | [Live](https://lifepath-bot.vercel.app) |
+| **AdaFit** | AI fitness tracking platform with analytics dashboard | [Live](https://ada-fit.vercel.app) |
+| **Sanchari** | Cross-platform React Native travel app | Mobile |
+| **Yatra AI** | AI travel assistant with map visualization | In Development |
 
 ---
 
 ## Featured Projects
 
-### [Vaultiq — Intelligent Enterprise Search](https://github.com/AI-Mercenary/Vaultiq)
-Multi-agent enterprise document search platform. Three LangGraph agents — Tag Generator, Search Agent, and Critique Agent — run in sequence to deliver ranked, context-aware results. Hybrid BM25 + TF-IDF search with Reciprocal Rank Fusion. Full Langfuse observability on every LLM call. Tested across 120+ documents in production.
+### [Vaultiq — Enterprise Search](https://github.com/AI-Mercenary/Vaultiq)
+Multi-agent document search platform built with LangGraph. Three agents — Tag Generator, Search Agent, and Critique Agent — work in sequence to surface relevant results from large document sets. Hybrid BM25 and TF-IDF search with LLM re-ranking. Full observability via Langfuse.
 
-`Python` `FastAPI` `PostgreSQL` `pgVector` `LangChain` `LangGraph` `Groq` `Langfuse` `React` `Next.js` `TypeScript` `Tailwind`
-
-**Results:** 70% retrieval time reduction · 70% top-1 precision · 60% irrelevant results eliminated
+`Python` `FastAPI` `PostgreSQL` `LangChain` `LangGraph` `Groq` `Langfuse` `React` `Next.js` `TypeScript` `Tailwind`
 
 ---
 
 ### [STARFORGE — 3D Data Platform](https://github.com/AI-Mercenary/STARFORGE)
-Advanced data visualization platform with 3D rendering, real-time analytics, and interactive dashboards. Built with Next.js 14, Three.js, React Three Fiber, and Framer Motion.
+Data visualization platform with 3D rendering, real-time dashboards, and interactive analytics. Built with Next.js, Three.js, and React Three Fiber.
 
-`Next.js` `TypeScript` `Three.js` `React Three Fiber` `Tailwind CSS` `Recharts` `Framer Motion`
+`Next.js` `TypeScript` `Three.js` `React Three Fiber` `Tailwind CSS` `Framer Motion`
 
 ---
 
 ### [LifePathBot — AI Student Platform](https://github.com/AI-Mercenary/lifepath-bot-frontend)
-LLM-powered student success platform with multi-file document ingestion (PDF, DOCX, PPTX), goal tracking, analytics dashboard, and conversational AI interface. Piloted with 200+ students.
+Student success platform with multi-file document ingestion, LLM-backed chat, goal tracking, and an analytics dashboard.
 
 `React` `TypeScript` `FastAPI` `MongoDB` `BM25` `spaCy` `NLTK` `Firebase`
 
 ---
 
 ### [AI Fitness Coach](https://github.com/AI-Mercenary/My_Projects)
-Agentic fitness platform with a sequential LangGraph reasoning chain — goal-parsing feeds into plan-synthesis for personalized workout and nutrition output. Achieved 3× faster generation vs naive prompting.
+Agentic fitness platform with a sequential LangGraph reasoning chain for personalized workout and nutrition planning.
 
 `Python` `LangChain` `LangGraph` `React.js` `Node.js` `OpenAI API`
 
 ---
 
-### [Sanchari — AI Travel App](https://github.com/AI-Mercenary/Sanchari)
-Cross-platform React Native mobile app with Google Sign-In, Firebase Auth, Supabase database, text-to-speech, and deep linking. Supports Android, iOS, and Web.
+### [Sanchari — Travel App](https://github.com/AI-Mercenary/Sanchari)
+Cross-platform mobile app with Google Sign-In, Firebase Auth, Supabase, and text-to-speech. Supports Android, iOS, and Web.
 
-`React Native` `Expo` `TypeScript` `Firebase` `Supabase` `Google Auth`
+`React Native` `Expo` `TypeScript` `Firebase` `Supabase`
 
 ---
 
 ### [Exam Integrity Monitor](https://github.com/AI-Mercenary/My_Projects)
-Real-time 30 FPS webcam proctoring system using facial keypoint tracking and anomaly scoring. Reduced proctor workload by 60% across 1,000+ exam sessions.
+Real-time webcam proctoring system using facial keypoint tracking and anomaly scoring.
 
 `JavaScript` `WebRTC` `MediaPipe` `face-api.js` `Docker`
 
@@ -142,11 +136,11 @@ Real-time 30 FPS webcam proctoring system using facial keypoint tracking and ano
 
 ## Highlights
 
-- 🥇 **1st Place** — Internal Smart India Hackathon 2025, GITAM University (400+ teams)
-- 🎓 **Selected** — IIT Delhi Computer Graphics & Computer Vision Summer School (1,500+ applicants)
-- 🏆 **Top 10** — IIT Kanpur Techkriti Technical Innovation Event
-- 🚀 **President** — GITAM Aero Astro Club (2025–26)
-- ⚡ **Operations Lead** — IEEE CS GITAM Chapter (2024–25)
+- 🥇 1st Place — Smart India Hackathon 2025, GITAM University
+- 🎓 Selected — IIT Delhi Computer Graphics & Computer Vision Summer School
+- 🏆 Top 10 — IIT Kanpur Techkriti Technical Innovation Event
+- 🚀 President — GITAM Aero Astro Club (2025–26)
+- ⚡ Operations Lead — IEEE CS GITAM Chapter (2024–25)
 
 ---
 
