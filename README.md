@@ -24,7 +24,7 @@ I build AI systems that ship — RAG pipelines, multi-agent workflows, and full-
 | Project | What It Does | Link |
 |---|---|---|
 | **Vaultiq** | Enterprise document search with a multi-agent AI pipeline | [Live](https://vaultiq-three-dusky.vercel.app) |
-| **STARFORGE** | 3D data visualization platform with real-time analytics | [Live](https://starforge-wheat.vercel.app) |
+| **STARFORGE** | 3D data visualization platform with real-time analytics | [Live](https://starforge-gaac.vercel.app/) |
 | **LifePathBot** | AI student success platform with LLM chat and document ingestion | [Live](https://lifepath-bot.vercel.app) |
 | **AdaFit** | AI fitness tracking platform with analytics dashboard | [Live](https://ada-fit.vercel.app) |
 | **Sanchari** | Cross-platform React Native travel app | Mobile |
